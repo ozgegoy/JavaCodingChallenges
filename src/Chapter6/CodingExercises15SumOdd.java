@@ -1,6 +1,6 @@
 package Chapter6;
 
-public class SumOdd {
+public class CodingExercises15SumOdd {
     public static void main(String[] args) {
 //        System.out.println(isOdd(-1));
 //        System.out.println(isOdd(1));
