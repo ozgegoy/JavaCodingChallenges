@@ -5,13 +5,12 @@ import java.util.List;
 
 public class CodingExercises22 {
     public static void main(String[] args) {
-//        getGreatestCommonDivisor(9,9);
-//        getGreatestCommonDivisor(15,9);
-//        getGreatestCommonDivisor(9, 18);
+        getGreatestCommonDivisor(9,9);
+        getGreatestCommonDivisor(15,9);
+        getGreatestCommonDivisor(9, 18);
         getGreatestCommonDivisor(25,15);
-//        getGreatestCommonDivisor(12,30);
-//        getGreatestCommonDivisor(9, 18);
-//        getGreatestCommonDivisor(81, 153);
+        getGreatestCommonDivisor(12,30);
+        getGreatestCommonDivisor(81, 153);
     }
 
     public static void getGreatestCommonDivisor(int firstNum, int secondNum) {
