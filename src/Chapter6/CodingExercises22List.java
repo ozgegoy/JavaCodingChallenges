@@ -3,7 +3,7 @@ package Chapter6;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CodingExercises22 {
+public class CodingExercises22List {
     public static void main(String[] args) {
         getGreatestCommonDivisor(9,9);
         getGreatestCommonDivisor(15,9);
