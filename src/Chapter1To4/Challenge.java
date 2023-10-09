@@ -1,3 +1,5 @@
+package Chapter1To4;
+
 public class Challenge {
     public static void main(String[] args) {
         double firstNumber = 20;

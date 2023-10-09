@@ -1,3 +1,5 @@
+package Chapter1To4;
+
 public class MethodChallenge {
 
     public static void main(String[] args) {
